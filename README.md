@@ -55,13 +55,10 @@ Part I of the project demonstrated two attacks with the aim of assessing the vul
 ## Demonstrating the Attacks
 
 [![First Attack.](https://img.youtube.com/vi/8ith5-hvm4c/0.jpg)](https://www.youtube.com/watch?v=8ith5-hvm4c)
+*Click the thumbnail above for the demonstration video of the first attack.*
 
-
-<div align="center">
-<p align="center">*Click the thumbnail above for the demonstration video of the first attack.*</p> [![First attack video thumbnail.]([)](https://img.youtube.com/vi/8ith5-hvm4c/0.jpg)](https://www.youtube.com/watch?v=8ith5-hvm4c)
-  
-*Click the thumbnail above for the demonstration video of the second attack.* [![Second attack video thumbnail.](https://img.youtube.com/vi/nqWZ_Tv3X-Q/0.jpg)]([https://www.youtube.com/watch?v=nqWZ_Tv3X-Q])
-</div>
+[![Second Attack.](https://img.youtube.com/vi/nqWZ_Tv3X-Q/0.jpg)](https://www.youtube.com/watch?v=nqWZ_Tv3X-Q)
+*Click the thumbnail above for the demonstration video of the second attack.*
 
 # ❇️ Future Improvements
 
