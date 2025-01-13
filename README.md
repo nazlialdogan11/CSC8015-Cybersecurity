@@ -27,7 +27,7 @@ Open the files.
 
 # ℹ About the Security Analysis Report
 
-The Security Analysis Report aims to provide the vulnerabilities within the system to ensure a secure system. With an adversarial mindset
+The Security Analysis Report aims to provide improvements on the vulnerabilities within the system to ensure a secure system. For this particular case, attacks were held with an adversarial mindset like that of a white hat hacker, presenting the findings via the documentation.
 
 # 🔖 Achievements
 
@@ -50,7 +50,13 @@ The Security Analysis Report aims to provide the vulnerabilities within the syst
 
 # 📄 Program Output
 
-Part I of the project demonstrated two attacks with the aim of assessing the vulnurabilities of a system. The records of these attacks were provided below.
+The detailed security analysis can be accessed via the link below for the detailed output.
+
+```
+> https://github.com/nazlialdogan11/CSC8015-Cybersecurity/blob/main/Security_Analysis_Report.pdf
+```
+
+Part I of the project demonstrated two attacks with the aim of assessing the vulnurabilities of a system and provided answers for the questions on the report. The records of these attacks were provided below.
 
 ## Demonstrating the Attacks
 
@@ -62,12 +68,14 @@ Part I of the project demonstrated two attacks with the aim of assessing the vul
 
 *Click the thumbnail above for the demonstration video of the second attack.*
 
+Part II of the project as provided on the security analysis report focused on listing system properties, potential threats, possible vulnerabilities, precautionary actions and assessment review for each of the two case studies.
+
 # ❇️ Future Improvements
 
-***The following remark was made by Dr R Ibrahim for future improvements.***
+***The following remark was made by Dr R Ibrahim for the future improvements.***
 - Providing in-text citations in the report.
 
 # ⛓️ References
 
-- [*Click for detailed information on the CSC8015 module.*](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8015)
+- [*Detailed information on the CSC8015 module.*](https://www.ncl.ac.uk/module-catalogue/module.php?code=CSC8015)
   
