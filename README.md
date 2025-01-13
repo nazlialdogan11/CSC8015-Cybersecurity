@@ -53,9 +53,8 @@ The Security Analysis Report aims to provide the vulnerabilities within the syst
 Part I of the project demonstrated two attacks with the aim of assessing the vulnurabilities of a system. The records of these attacks were provided below.
 
 ## Demonstrating the Attacks
-[![Demonstrating the first attack]()]
 
-- [![](https://img.youtube.com/vi/8ith5-hvm4c/0.jpg)*Demonstration of the first attack.*](https://www.youtube.com/watch?v=8ith5-hvm4c)
+- [![First attack video thumbnail.](https://img.youtube.com/vi/8ith5-hvm4c/0.jpg)*Demonstration of the first attack.*](https://www.youtube.com/watch?v=8ith5-hvm4c)
 
 - [*Demonstration of the second attack.*](https://www.youtube.com/watch?v=nqWZ_Tv3X-Q)
 
