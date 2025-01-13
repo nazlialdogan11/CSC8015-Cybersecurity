@@ -4,7 +4,6 @@
 
 The aim of this module was to have awareness of the need for security in computer and communications systems, and to be introduced to techniques for analysing and improving security.
 The module covered the main areas under the field of cybersecurity and introduced several security tools, by covering the main principles of Security, Information Security, Website Security, Network Analysis, Cybersecurity Tools and Human Aspects of Cybersecurity. By exploring topics such as the need for security, system and network security, cryptography, privacy and practical security, including hardware, software and human elements of security, this module introduced requirements and solutions for security on many components of a computer system: hardware, network, databases, web applications, operating systems and user interface.
-
 This report aimed to provide the documentation of two consisting parts: Part I aimed to achieve successfull attacks to the system and Part II aimed to design and justify an analysis strategy when considering a system, for before the conduction of the attack, all the while taking into account the ethical and professional aspects for the two case studies and to assess the potential effectiveness of the tools used for this specific context.
 
 The first case study was held on the sensor network of a university building, deployed to transform the main building into a smart building.
